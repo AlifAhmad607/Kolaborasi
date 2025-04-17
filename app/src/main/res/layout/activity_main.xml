@@ -36,6 +36,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="login" />
+        android:text="login"
+        android:padding="20sp"/>
 
 </LinearLayout>
